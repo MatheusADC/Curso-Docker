@@ -5,7 +5,7 @@ Estudo sobre Docker e Docker Compose.
 ### [Docker](https://www.notion.so/Docker-197e92dbe52980bd9ee6f4b205b70d66)
 ### [Docker Compose](https://www.notion.so/Docker-Compose-197e92dbe5298063922de710f74f1669)
 
-# <img src="https://github.com/user-attachments/assets/facd4829-1faf-4480-ac7c-42672fcc86e1" alt="ícone do NodeJS" width="28"> Comandos 
+# <img src="https://github.com/user-attachments/assets/d1e0bc54-4b4a-4694-ae96-bce64c8abb51" alt="ícone do NodeJS" width="28"> Comandos 
 ### 1. Criar aquivo package.json
 ```
 npm init
